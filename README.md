@@ -17,6 +17,10 @@ Courses:
 
 ... to be added later...
 
+PLACEHOLDER:
+
+![fig_example](https://github.com/ianpaga/N_body_problem/assets/57350668/4ccb576a-a9d4-4fd3-b9c8-1718fa915b3e)
+
 ## Requirements:
 
 - Python
