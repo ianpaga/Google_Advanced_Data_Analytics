@@ -13,7 +13,7 @@ Courses:
 6. The Nuts and Bolts of Machine Learning
 7. Google Advanced Data Analytics Capstone
 
-**I'll work on a proper readme file when i finish the certificate**
+** I'll work on a proper README.md file when i finish the certificate**
 
 ## Figures:
 
